@@ -48,10 +48,11 @@ A Next.js tool that parses raw HTML from Google Forms and converts it into a cle
 3.  **Map:**
     - Uncheck fields you don't need.
     - Rename the "Target Key Name" to whatever you want your JSON key to be.
-    - Use **Auto CamelCase** for quick formatting.
 4.  **Export:** Copy the final JSON from the result block.
 
-## Hosting for Free (Vercel) (If you don't want to use from here You can host the project yourself. Feel free to use it)
+## Hosting for Free (Vercel)
+
+### (If you don't want to use from here You can host the project yourself. Feel free to use it)
 
 This project uses **Next.js Server Actions**, so it requires a server runtime. The best free host is **Vercel**.
 
